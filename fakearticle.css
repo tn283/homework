@@ -1,0 +1,64 @@
+.content {
+  color: #E40BF9;
+  padding-left: 50px;
+  padding-right: 10px;
+}
+
+  /*padding:100px; */
+  /*padding-top:
+  padding-bottom: */
+
+.title {
+  color: orange;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.koala {
+  float: right;
+  height: 200px;
+  padding-left: 65px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+}
+
+.kangoroo {
+    padding-right: 5px;
+    padding-left: 10px;
+    height: 225px;
+    float: right;
+}
+
+.right-content {
+  float: left;
+  height: 0px;
+  padding-left: 50px;
+  padding-right: 800px;
+  color: blue;
+}
+
+.left-content {
+  float: center;
+  height: 100px;
+  padding-left: 450px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  color: green;
+}
+
+p {font-family: monospace;
+}
+
+.second-title {
+  color: blue;
+  padding-left: 50px;
+  font-family: sans-serif;
+}
+
+.caption {
+  float: right;
+  padding-left: 600px;
+  padding-right: 50px;
+  font-style: italic;
+  color: red;
+}
