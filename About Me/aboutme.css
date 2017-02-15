@@ -1,0 +1,94 @@
+body {
+    background-color: lightblue;
+    color: blue;
+    font-family: verdana;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+p {font-family:verdana;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+  h1:hover {
+    color: orange;
+  }
+  a:active {
+    background-color: yellow;
+  }
+  a:visited {
+    color: navy;
+  }
+.image {
+  weight: 50%;
+  width: 50%;
+}
+
+.inner-image
+  {
+    width: 100%;
+  }
+  .content {
+  color: #E40BF9;
+  padding-left: 50px;
+  padding-right: 10px;
+}
+
+  /*padding:100px; */
+  /*padding-top:
+  padding-bottom: */
+
+.title {
+  color: blue;
+  padding-left: 60px;
+  padding-right: 10px;
+}
+
+.elon {
+  float: left;
+  height: 200px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+}
+
+.space {
+    padding-right: 5px;
+    padding-left: 10px;
+    height: 225px;
+    float: right;
+}
+
+/*.right-content {
+  float: left;
+  height: 0px;
+  padding-left: 50px;
+  padding-right: 800px;
+  color: blue;
+}*/
+
+.left-content {
+  float: center;
+  height: 100px;
+  padding-left: 450px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  color: green;
+}
+
+p {font-family: monospace;
+}
+
+.second-title {
+  color: red;
+  padding-left: 50px;
+  font-family: sans-serif;
+}
+.footer {
+  margin-top: 50%;
+}
